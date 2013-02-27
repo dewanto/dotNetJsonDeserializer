@@ -1,0 +1,7 @@
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\bin\Debug\JSONDemo.exe
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\bin\Debug\JSONDemo.pdb
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\bin\Debug\Newtonsoft.Json.xml
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\obj\x86\Debug\JSONDemo.exe
+c:\users\mozvat\documents\visual studio 2010\Projects\JSONDemo\JSONDemo\obj\x86\Debug\JSONDemo.pdb
